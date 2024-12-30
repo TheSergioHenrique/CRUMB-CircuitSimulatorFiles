@@ -4,7 +4,7 @@ Welcome to the **electronics projects** repository using the **CRUMB simulator**
 
 ## About CRUMB
 
-CRUMB is a powerful circuit simulator that enables users to design, test, and validate electronic solutions in a practical and intuitive way. It supports:
+CRUMB is a circuit simulator that enables users to design, test, and validate electronic solutions in a practical and intuitive way. It supports:
 
 - **Modeling of analog and digital circuits**.
 - **Interactive simulation** to analyze real-time system behavior.
