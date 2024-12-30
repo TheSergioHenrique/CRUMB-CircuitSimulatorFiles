@@ -1,17 +1,17 @@
-# Simulador CRUMB e Projetos de Eletrônica
+# CRUMB Simulator and Electronics Projects
 
-Bem-vindo ao repositório de **projetos de eletrônica** utilizando o simulador **CRUMB**! Este repositório foi criado para documentar circuitos.
+Welcome to the **electronics projects** repository using the **CRUMB simulator**! This repository was created to document and share circuit designs.
 
-## Sobre o CRUMB
+## About CRUMB
 
-O CRUMB é um simulador de circuitos elétricos que permite projetar, testar e validar soluções eletrônicas de forma prática e intuitiva. Ele suporta:
+CRUMB is a powerful circuit simulator that enables users to design, test, and validate electronic solutions in a practical and intuitive way. It supports:
 
-- **Modelagem de circuitos analógicos e digitais**.
-- **Simulação interativa** para verificar o comportamento do sistema em tempo real.
-- **Integração com componentes de hardware** populares no mercado.
+- **Modeling of analog and digital circuits**.
+- **Interactive simulation** to analyze real-time system behavior.
+- **Integration with popular hardware components** on the market.
 
-## Como Usar
+## How to Use
 
- **Clone o Repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/repositorio-crumb.git
+**Clone the Repository**:
+```bash
+git clone https://github.com/TheSergioHenrique/CRUMB-CircuitSimulatorFiles.git
